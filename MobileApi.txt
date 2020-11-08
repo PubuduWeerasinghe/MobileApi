@@ -1,0 +1,10 @@
+http://localhost/mobileapi/index.php/login
+username= password=
+
+http://localhost/MobileApi/index.php/qrscan
+material= stockpile= qrcode= SupplierStatus= MaterialStatus= QuantityStatus=
+
+http://localhost/MobileApi/index.php/history
+date=
+
+http://localhost/MobileApi/index.php/stock_file
